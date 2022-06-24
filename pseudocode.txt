@@ -1,0 +1,12 @@
+radio
+if video checked:
+ do this
+elif:
+ if this radio is checked then do plylist
+
+
+functions that download
+
+link = (text area)
+video = (radio checked)
+
